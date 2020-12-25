@@ -12,7 +12,7 @@
     "type": "git"
   }],
   "require": {
-    "Amsterdan/bankcard": "dev-master"
+    "amsterdan/bankcard": "dev-master"
   }
 }
 ```

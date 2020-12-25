@@ -1,11 +1,12 @@
 {
-    "name": "Amsterdan/bankcard",
+    "name": "amsterdan/bankcard",
     "description": "通过银行卡号查询所属银行和银行卡类型",
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {"name":"scott","email":"amsterdan@163.com"}
-    ],
+    "authors": [{
+        "name":"scott",
+        "email":"amsterdan@163.com"
+    }],
     "require": {},
     "autoload": {
         "psr-4": {
